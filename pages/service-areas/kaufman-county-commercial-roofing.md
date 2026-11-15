@@ -1,0 +1,19 @@
+---
+type: Service Area Page
+title: "Kaufman County Commercial Roofing — AVID Roofing & Waterproofing"
+description: "AVID page in the Service Areas section at /service-areas/kaufman-county-commercial-roofing, sitemap last modified 2026-09-19."
+resource: https://www.avidroofing.com/service-areas/kaufman-county-commercial-roofing
+tags: [service-areas, site-page]
+timestamp: 2026-09-19
+generated: { by: claude/claude-opus-5-5, at: 2026-11-15T20:45:00Z }
+---
+
+# Kaufman County Commercial Roofing — AVID Roofing & Waterproofing
+
+- **Live page:** https://www.avidroofing.com/service-areas/kaufman-county-commercial-roofing
+- **Path:** /service-areas/kaufman-county-commercial-roofing
+- **Section:** Service Areas
+- **Sitemap last modified:** 2026-09-19
+- **Business:** [AVID Roofing & Waterproofing](../../business/avid-roofing-and-waterproofing.md)
+
+Inventory coverage concept from the live sitemap. Title is derived from the URL slug and is not a claim about the page's content. See the [Service area](../../service-areas/service-area.md) concept for coverage facts.
