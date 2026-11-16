@@ -9,7 +9,7 @@ Knowledge about AVID Roofing & Waterproofing, a commercial roofing and waterproo
 ## Business
 - [AVID Roofing & Waterproofing](business/avid-roofing-and-waterproofing.md) — who the company is, who it serves, key facts
 - [Contact and location](business/contact-and-location.md) — address, phones, email, hours
-- [Leadership](business/leadership.md) — Dave Wasson, John Korutz, Miguel Monrreal, Vega Healey
+- [Leadership](business/leadership.md) — Dave Wasson, John Korutz, Miguel Monrreal, Vega Healy
 - [How AVID runs a job](business/how-avid-runs-a-job.md) — named project manager, daily written reports, honest scoping
 - [Certifications and suppliers](business/certifications-and-suppliers.md) — manufacturer certifications and warranties
 - [Emergency response](business/emergency-response.md) — 24/7 dispatch and response commitments
