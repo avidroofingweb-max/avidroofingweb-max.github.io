@@ -1,7 +1,7 @@
 ---
 type: Team
 title: "AVID leadership"
-description: "AVID Roofing & Waterproofing leadership: Dave Wasson, John Korutz, Miguel Monrreal, and Vega Healey."
+description: "AVID Roofing & Waterproofing leadership: Dave Wasson, John Korutz, Miguel Monrreal, and Vega Healy."
 resource: https://www.avidroofing.com/leadership
 tags: [leadership, dave-wasson, team]
 timestamp: 2026-09-19
@@ -33,7 +33,7 @@ sources:
 - Reviews installation quality (seams, flashing, penetration sealing) before work leaves the site
 - Specialties: field supervision, crew training, quality control
 
-## Vega Healey — Project Management Lead
+## Vega Healy — Project Management Lead
 - 12 years of experience, from a third-generation roofing family
 - Manages projects from $50K to $5M+
 - Specialties: project scaling, multi-team coordination, safety operations
